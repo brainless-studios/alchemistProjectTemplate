@@ -1,6 +1,6 @@
 package app;
 
-import view.Alchemist;
+import com.brainless.alchemist.view.Alchemist;
 
 public class MyApplication extends Alchemist {
 	
