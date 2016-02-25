@@ -8,7 +8,6 @@
 #*.jar
 *.war
 *.ear
-lib/jME3*
 **/bin/
 
 .project
@@ -22,21 +21,6 @@ local.properties
 
 **/*.dylib
 /build/
-
-.gradle
-# Class Files #
-*.class
-
-# Package Files #
-#*.jar
-*.war
-*.ear
-lib/jME3*
-**/bin/
-
-.project
-.classpath
-.settings
 
 **/gen/
 
