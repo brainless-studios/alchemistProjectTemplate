@@ -1,0 +1,8 @@
+{
+  "name" : "Unamed entity",
+  "components" : [ {
+    "class" : "model.ECS.builtInComponent.Naming",
+    "name" : "Unamed entity"
+  } ],
+  "children" : [ ]
+}
