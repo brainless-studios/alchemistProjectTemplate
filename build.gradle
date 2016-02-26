@@ -24,7 +24,6 @@ repositories {
 
 // In this section you declare the dependencies for your production and test code
 dependencies {
-
 	// local libraries
 	compile fileTree(dir: 'lib', include: ['*.jar'])
 
@@ -39,7 +38,6 @@ dependencies {
     
     // Alchemist
 	compile 'com.github.brainless-studios:alchemist:-SNAPSHOT'
-    
 }
 
 sourceCompatibility = 1.8
